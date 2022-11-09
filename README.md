@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. My name is Mike and this is my repository.
 
 <!--
 **mikelambrix/mikelambrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Mike and this is my repository.
+
 <br >
 🔭 I’m currently working on a flight finder app with API integration.<br>
 🌱 I’m currently learning C# & .NET. <br>
