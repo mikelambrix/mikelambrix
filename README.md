@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Mike and this is my repository.
+🔭 I’m currently working on a flight finder app with API integration.
+🌱 I’m currently learning C# & .NET.
+👯 I’m looking to collaborate on GIS & other geomapping-based data for a future project.
+
