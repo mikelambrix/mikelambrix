@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <br >
 🔭 I’m currently working on a flight finder app with API integration.<br>
-🌱 I’m currently learning C# & .NET. <br>
+🌱 I’m currently learning C#, .NET and design study. <br>
 👯 I’m looking to collaborate on GIS & other geomapping-based data for a future project.
 
