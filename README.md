@@ -1,4 +1,4 @@
-### Hi there. My name is Mike and this is my repository.
+### Hello. My name is Mike and this is my repository.
 
 <!--
 **mikelambrix/mikelambrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
